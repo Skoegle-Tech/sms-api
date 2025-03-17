@@ -1,0 +1,19 @@
+{
+  "name": "brocker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "aedes": "^0.51.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mqtt": "^5.10.3",
+    "nodemon": "^3.1.9"
+  }
+}
